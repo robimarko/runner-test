@@ -1,5 +1,4 @@
 #!/bin/sh
-TARGET='IP port'
 TARGET='firehole.gvalkov.com 9981'
 
 # bash and user configuration
